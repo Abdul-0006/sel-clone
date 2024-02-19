@@ -49,9 +49,14 @@ nav .logo23 {
 }
 .info > .btn5 {
   width: 125px;
-  height: 10px;
+  height: 40px;
 
   background-color: #f5204b;
 }
-.btn5 > .btn4 {
+.btn5 > .but4 {
+  position: relative;
+  top: 5px;
+  padding: 20px;
+  text-decoration: none;
+  color: white;
 }
